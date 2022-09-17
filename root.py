@@ -7,7 +7,7 @@ root = tk.Tk()
 root.geometry("440x580+0+0")
 root.resizable(0,0)
 root.config(background="dimgrey")
-root.title("MOBILE NUMBER MODULE")
+root.title("Contact Management  System")
 
 # message_1
 info = tk.Label(root,text="ENTER YOUR DETAILS HERE",background= "dimgrey",fg= "black",font=("arial",15,"bold"))
